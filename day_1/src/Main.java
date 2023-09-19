@@ -1,3 +1,5 @@
+
+
 public class Main {
     public static void main(String[] args) {
         String input = "100\n" +
@@ -2011,5 +2013,7 @@ public class Main {
         }
 
         System.out.println(incCount);
+
+        part2.part2(lines);
     }
 }
