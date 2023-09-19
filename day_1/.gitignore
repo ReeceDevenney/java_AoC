@@ -14,6 +14,9 @@ out/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
+workspace.xml
+.iws
+tasks.xml
 
 ### NetBeans ###
 /nbproject/private/
